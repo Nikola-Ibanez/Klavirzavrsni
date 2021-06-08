@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Klavir aplikacija</string>
+    <string-array name="oktave_array">
+        <item>Oktava 4</item>
+        <item>Oktava 5</item>
+        <item>Oktava 6</item>
+        <item>Oktava 7</item>
+
+    </string-array>
+</resources>
